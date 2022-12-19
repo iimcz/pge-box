@@ -21,4 +21,4 @@ jiných zařízeních než je PGE. V současné době podmínku kompatibility sp
 
 ## Poznámky k instalaci
 
-## Rozcestník další dokumentace
+## Rozcestník dalších komponent dokumentace

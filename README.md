@@ -1,5 +1,5 @@
 # PGE vizualizér
-# Pepper's Ghost Effect presentation device - documentation
+# Dokumentace
 
 Zařízení PGEV (Pepper’s Ghost Effect Visualizer) je zobrazovací zařízení ve formě výstavního soklu, který umožňuje zobrazovat 
 vizuální komponenty multimediálního obsahu na částečně propustném skleněném povrchu. Uživatel tak vidí jak prezentovaný obsah 

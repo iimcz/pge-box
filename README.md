@@ -25,8 +25,8 @@ jiných zařízeních než je PGE. V současné době podmínku kompatibility sp
 nejsou
 
 ## Rozcestník dalších komponent dokumentace
-- [Dokumentace PGEV](https://github.com/iimcz/pge-box/blob/main/Doc/pgev_dokumentace.pdf)
-- [Výrobní dokumentace](https://github.com/iimcz/pge-box/blob/main/Doc/PGEV-model-set-fusion.f3z)
+- [Dokumentace PGEV](https://raw.githubusercontent.com/iimcz/pge-box/main/Doc/pgev_dokumentace.pdf)
+- [Výrobní dokumentace](https://raw.githubusercontent.com/iimcz/pge-box/main/Doc/PGEV-model-set-fusion.f3z)
 - [Dokumentace zdrojových kódů](https://raw.githubusercontent.com/iimcz/ipw-firmware/master/Doc/EMT_SDK_programatorska_dokumentace.pdf)
-- [Protokol o testování IPS](https://github.com/iimcz/pge-box/blob/main/Doc/DCGI-FVZ-01-2022-PTF.pdf)
+- [Protokol o testování IPS](https://raw.githubusercontent.com/iimcz/pge-box/main/Doc/DCGI-FVZ-01-2022-PTF.pdf)
 - Modely pro 3D tisk  - viz Výrobní dokumentace

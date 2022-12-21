@@ -22,3 +22,4 @@ jiných zařízeních než je PGE. V současné době podmínku kompatibility sp
 ## Poznámky k instalaci
 
 ## Rozcestník dalších komponent dokumentace
+- [Dokumentace PGEV](https://raw.githubusercontent.com/iimcz/pge-box/master/Doc/pgev_dokumentace.pdf)

@@ -9,6 +9,8 @@ rozšířenou realitu (AR - augmented reality).
 
 ![Koncept](Doc/Images/pge-promo-small.png)
 
+**Tento repozitář obsahuje zdrojové kódy firmwaru PGE.**
+
 Zde popisovaný PGE Vizualizér je určen pro výstavy a expozice v paměťových institucích zejména pro zobrazování 3D objektů a 3D scén 
 a je možné na něm zobrazovat i další typy multimediálního obsahu (obrázky, video). PGEV je navržen jako interaktivní zařízení, které 
 umožňuje detekovat přítomnost návštěvníka a jeho gesta rukou. Systém vizualizéru rovněž umožňuje jeho propojení s dalšími zařízeními 
@@ -17,9 +19,10 @@ obrazové galerie na jednom zařízení s videem běžícím na jiném zařízen
 jiných zařízeních než je PGE. V současné době podmínku kompatibility splňuje Interaktivní projekční stěna 
 (IPS, https://github.com/iimcz/ipw-firmware).
 
-**Tento repozitář obsahuje zdrojové kódy firmwaru PGE.**
 
 ## Poznámky k instalaci
+
+nejsou
 
 ## Rozcestník dalších komponent dokumentace
 - [Dokumentace PGEV](https://github.com/iimcz/pge-box/blob/main/Doc/pgev_dokumentace.pdf)

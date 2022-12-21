@@ -7,7 +7,7 @@ tak prostředí za zařízením. Princip systému využívajícího odraz světl
 označován jako Pepperův Ghost efekt a byl využíván už v 19. století na divadelní scéně. Dnes je využit v řadě zařízení pro 
 rozšířenou realitu (AR - augmented reality).  
 
-![Koncept](Doc/Images/pge-promo.png)
+![Koncept](Doc/Images/pge-promo-small.png)
 
 Zde popisovaný PGE Vizualizér je určen pro výstavy a expozice v paměťových institucích zejména pro zobrazování 3D objektů a 3D scén 
 a je možné na něm zobrazovat i další typy multimediálního obsahu (obrázky, video). PGEV je navržen jako interaktivní zařízení, které 
